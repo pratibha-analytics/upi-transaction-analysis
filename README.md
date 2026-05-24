@@ -127,7 +127,7 @@ That's it! All 6 charts will be saved in the `outputs/` folder automatically.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Pratibha Singh**  
   
