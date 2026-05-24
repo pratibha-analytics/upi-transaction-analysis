@@ -1,10 +1,10 @@
-# 📊 UPI Transaction Analysis — Digital India Internship
+#  UPI Transaction Analysis 
 
 **Analyzing India's digital payments growth using real NPCI data (2021–2022)**
 
 ---
 
-## 🙋 About This Project
+##  About This Project
 
 This is my data analysis project made during the **Digital India Internship**. I used real UPI (Unified Payments Interface) data from NPCI (National Payments Corporation of India) to study how digital payments in India grew between 2021 and 2022.
 
@@ -31,7 +31,7 @@ I used **Python** to clean the data and create charts, and **Power BI** to build
 
 ---
 
-## 💡 What I Found (Key Insights)
+##  What I Found (Key Insights)
 
 1. **UPI grew 68.8% year-over-year** — Average monthly transactions jumped from 3,295 Mn (2021) to 5,561 Mn (2022)
 2. **PhonePe is the clear leader** — 35,380 Mn total volume, which is 1.5× more than Google Pay
@@ -42,7 +42,7 @@ I used **Python** to clean the data and create charts, and **Power BI** to build
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 | File | Rows | Period |
 |------|------|--------|
@@ -60,7 +60,7 @@ I used **Python** to clean the data and create charts, and **Power BI** to build
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 | Tool | What I used it for |
 |------|-------------------|
@@ -71,7 +71,7 @@ I used **Python** to clean the data and create charts, and **Power BI** to build
 
 ---
 
-## 📂 Project Files
+## Project Files
 
 ```
 upi-transaction-analysis/
@@ -97,7 +97,7 @@ upi-transaction-analysis/
 
 ---
 
-## ▶️ How to Run This Project
+##  How to Run This Project
 
 ### Step 1 — Install Python
 Download from [python.org](https://python.org) if you don't have it.
@@ -117,7 +117,7 @@ That's it! All 6 charts will be saved in the `outputs/` folder automatically.
 
 ---
 
-## 🤔 What I Learned
+##  What I Learned
 
 - How to load and clean messy real-world data using pandas
 - How to fix common problems like extra spaces in column names and comma-formatted numbers
@@ -130,7 +130,7 @@ That's it! All 6 charts will be saved in the `outputs/` folder automatically.
 ## 👤 Author
 
 **Pratibha Singh**  
-Digital India Internship — [Year]  
+  
 Netaji Subhas University of Technology, New Delhi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/pratibha-singh-25b040250)
