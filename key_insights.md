@@ -1,6 +1,6 @@
 # My Analysis — UPI Transaction Data (2021–2022)
 
-** Pratibha Singh | Netaji Subhas University of Technology**
+ Pratibha Singh | Netaji Subhas University of Technology
 
 ---
 
