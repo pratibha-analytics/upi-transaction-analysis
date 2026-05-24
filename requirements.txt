@@ -1,0 +1,6 @@
+# These are the Python libraries this project needs.
+# To install them, open your terminal and run:
+#   pip install -r requirements.txt
+
+pandas>=1.3.0
+matplotlib>=3.4.0
